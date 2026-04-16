@@ -54,7 +54,7 @@ nav li {
     margin: 0 20px;
 }
 nav li a {
-    display:inline-block;
+    display: block;
     margin: 0 20px;
     background-color: #c0c0c0;
     color: #000000;
