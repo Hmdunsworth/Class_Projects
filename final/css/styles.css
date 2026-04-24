@@ -91,7 +91,7 @@ main img {
     border-radius: 20px;
 }
 
-#characters {
+.characters {
     background-color: #324C4F;
     border: 2px solid #D7C991;
     border-radius: 20px;
