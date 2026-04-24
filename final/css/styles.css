@@ -110,6 +110,13 @@ footer {
     text-align: center;
 }
 
+.audio-container {
+    display:block;
+    transform: scale(0.8);
+    align-items: center;
+    margin-right: 130px;
+}
+
 @media (min-width: 768px) {
 
 ul {
@@ -132,12 +139,23 @@ section {
     padding-left: 150px;
 }
 
+.audio-container {
+    margin-left: 180px;
+}
+
 }
 
 @media (min-width: 1024px) {
 
 #container {
     width: 93%;
+}
+
+.audio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 137px;
 }
 
 nav {
