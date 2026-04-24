@@ -1,6 +1,10 @@
 body {
     background-color: #101010;
     color: #c0c0c0;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
 }
 
 img {
@@ -116,6 +120,7 @@ footer {
     align-items: center;
     margin-right: 130px;
 }
+
 
 @media (min-width: 768px) {
 
